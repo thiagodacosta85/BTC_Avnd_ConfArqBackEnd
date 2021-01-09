@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BTC_Avnd_ConfArqBackEnd</name>
+    </assembly>
+    <members>
+        <member name="M:BTC_Avnd_ConfArqBackEnd.Controllers.UsuarioController.Logar(BTC_Avnd_ConfArqBackEnd.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
